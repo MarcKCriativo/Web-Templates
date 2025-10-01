@@ -9,9 +9,9 @@ Ob **Landing Page**, **Portfolio** oder **Agency Website** – alle Templates si
 
 | Template | Vorschau | Technologien | Beschreibung |
 |----------|----------|--------------|--------------|
-| 🌐 **Landing Page** | [🔗 Demo](https://deinlink.com/landing) | HTML, CSS | Moderne One-Page für Startups |
-| 🎨 **Portfolio**   | [🔗 Demo](https://deinlink.com/portfolio) | Next.js, Tailwind | Minimalistisches Designer-Portfolio |
-| 🏢 **Agency**      | [🔗 Demo](https://deinlink.com/agency) | React, SCSS | Business-Template für Agenturen |
+| 🌐 **Landing Page** | [🔗 Demo]| HTML, CSS | Moderne One-Page für Startups |
+| 🎨 **Portfolio**   | [🔗 Demo]| Next.js, Tailwind | Minimalistisches Designer-Portfolio |
+| 🏢 **Agency**      | [🔗 Demo]| React, SCSS | Business-Template für Agenturen |
 
 👉 Weitere Templates folgen regelmäßig – ⭐ **Star das Repo**, um Updates nicht zu verpassen!
 
