@@ -41,4 +41,4 @@ Ob **Landing Page**, **Portfolio** oder **Agency Website** – alle Templates si
 
 1. Dieses Repository klonen oder herunterladen  
    ```bash
-   git clone https://github.com/deinname/web-templates.git
+   git clone https://github.com/MarcKCriativo/web-templates.git
